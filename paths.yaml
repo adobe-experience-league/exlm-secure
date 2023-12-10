@@ -2,6 +2,7 @@ mappings:
   - /content/exlm-secure/global/:/
   - /content/exlm-secure/global/en:/
   - /content/exlm-secure/metadata:/metadata.json
+  - /content/exlm-secure/config:/.helix/config.json
   # load fragments as resource from codebus in the editor (sw.js)
   - /content/exlm-secure.resource/fragments/:/fragments/
 
